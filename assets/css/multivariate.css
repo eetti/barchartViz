@@ -102,7 +102,7 @@ body {
 
 header {
 	font-family: 'Vollkorn', serif;
-	background: #fb4c52;
+	background: #009688;
 	padding: 20px;
 	margin-bottom: 100px;
 	position: relative;
@@ -278,6 +278,34 @@ h6 {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;  
 	box-shadow: #222 0px 15px 35px -15px;
+}
+
+.descr {
+	display: block;
+	background-color: #eee;
+	color: #000;
+	font-family: 'Vollkorn', serif;
+	padding: 20px;
+	width: 80%;
+	max-width: 1200px;
+	margin: auto auto 50px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;  
+	box-shadow: #222 0px 15px 35px -15px;
+}
+
+.descr p {
+	color: #009688;
+}
+
+.descr span {
+	color: #009688;
+	margin-left: 10px;
+}
+
+.descr h6 {
+	margin-right: 10px;
 }
 
 .controls h6 {

@@ -28,9 +28,12 @@ var exportsToArgentina = [{"id":"Value 2004","stats":[{"name":"food","value":314
 var exportsToIraq = [{"id":"Value 2004","stats":[{"name":"food","value":67456},{"name":"chem","value":22836},{"name":"industrial","value":495314},{"name":"transportation","value":158246},{"name":"household","value":54726},{"name":"military","value":33914},{"name":"misc","value":23956}]},{"id":"Value 2005","stats":[{"name":"food","value":325489},{"name":"chem","value":18952},{"name":"industrial","value":670105},{"name":"transportation","value":118251},{"name":"household","value":43635},{"name":"military","value":163676},{"name":"misc","value":33877}]},{"id":"Value 2006","stats":[{"name":"food","value":451164},{"name":"chem","value":21957},{"name":"industrial","value":408043},{"name":"transportation","value":269799},{"name":"household","value":114029},{"name":"military","value":190265},{"name":"misc","value":35362}]},{"id":"Value 2007","stats":[{"name":"food","value":575784},{"name":"chem","value":28228},{"name":"industrial","value":450442},{"name":"transportation","value":88622},{"name":"household","value":62757},{"name":"military","value":320755},{"name":"misc","value":33612}]},{"id":"Value 2008","stats":[{"name":"food","value":886633},{"name":"chem","value":60955},{"name":"industrial","value":653377},{"name":"transportation","value":116856},{"name":"household","value":79252},{"name":"military","value":224609},{"name":"misc","value":48111}]},{"id":"Value 2009","stats":[{"name":"food","value":153758},{"name":"chem","value":61148},{"name":"industrial","value":999985},{"name":"transportation","value":303604},{"name":"household","value":61032},{"name":"military","value":134910},{"name":"misc","value":57975}]},{"id":"Value 2010","stats":[{"name":"food","value":287269},{"name":"chem","value":95207},{"name":"industrial","value":864238},{"name":"transportation","value":155621},{"name":"household","value":64275},{"name":"military","value":129768},{"name":"misc","value":46688}]},{"id":"Value 2011","stats":[{"name":"food","value":656377},{"name":"chem","value":86477},{"name":"industrial","value":1101469},{"name":"transportation","value":212919},{"name":"household","value":94409},{"name":"military","value":193508},{"name":"misc","value":55202}]},{"id":"Value 2012","stats":[{"name":"food","value":143598},{"name":"chem","value":83656},{"name":"industrial","value":1200617},{"name":"transportation","value":274053},{"name":"household","value":52500},{"name":"military","value":258837},{"name":"misc","value":40613}]},{"id":"Value 2013","stats":[{"name":"food","value":151648},{"name":"chem","value":91970},{"name":"industrial","value":1219123},{"name":"transportation","value":238752},{"name":"household","value":66783},{"name":"military","value":224465},{"name":"misc","value":28372}]}]
 var global = [{"id":"Canada","stats":[{"name":"food","value":24219696},{"name":"chem","value":91480126},{"name":"industrial","value":79593366},{"name":"transportation","value":60460811},{"name":"household","value":38014667},{"name":"military","value":588784},{"name":"misc","value":7252143}]},{"id":"Mexico","stats":[{"name":"food","value":16622178},{"name":"chem","value":82341997},{"name":"industrial","value":74688503},{"name":"transportation","value":31399953},{"name":"household","value":13731200},{"name":"military","value":425145},{"name":"misc","value":6870088}]},{"id":"China","stats":[{"name":"food","value":20854017},{"name":"chem","value":41951807},{"name":"industrial","value":41257025},{"name":"transportation","value":10879367},{"name":"household","value":5777776},{"name":"military","value":42930},{"name":"misc","value":973463}]},{"id":"Japan","stats":[{"name":"food","value":12671733},{"name":"chem","value":16151870},{"name":"industrial","value":22357447},{"name":"transportation","value":2072095},{"name":"household","value":9504414},{"name":"military","value":1435687},{"name":"misc","value":1012531}]},{"id":"France","stats":[{"name":"food","value":723202},{"name":"chem","value":9191965},{"name":"industrial","value":15211454},{"name":"transportation","value":591874},{"name":"household","value":4556869},{"name":"military","value":316638},{"name":"misc","value":1152808}]},{"id":"SaudiArabia","stats":[{"name":"food","value":1098357},{"name":"chem","value":2073060},{"name":"industrial","value":7850866},{"name":"transportation","value":5609429},{"name":"household","value":1149983},{"name":"military","value":887814},{"name":"misc","value":286946}]},{"id":"Israel","stats":[{"name":"food","value":583103},{"name":"chem","value":1721337},{"name":"industrial","value":3674881},{"name":"transportation","value":250752},{"name":"household","value":6550625},{"name":"military","value":672008},{"name":"misc","value":294356}]},{"id":"Argentina","stats":[{"name":"food","value":91237},{"name":"chem","value":5130251},{"name":"industrial","value":3501758},{"name":"transportation","value":321013},{"name":"household","value":935673},{"name":"military","value":81122},{"name":"misc","value":292840}]},{"id":"Iraq","stats":[{"name":"food","value":151648},{"name":"chem","value":91970},{"name":"industrial","value":1219123},{"name":"transportation","value":238752},{"name":"household","value":66783},{"name":"military","value":224465},{"name":"misc","value":28372}]},{"id":"Pakistan","stats":[{"name":"food","value":124103},{"name":"chem","value":710335},{"name":"industrial","value":508602},{"name":"transportation","value":11817},{"name":"household","value":86587},{"name":"military","value":174282},{"name":"misc","value":29924}]},{"id":"Haiti","stats":[{"name":"food","value":386573},{"name":"chem","value":211080},{"name":"industrial","value":119029},{"name":"transportation","value":22371},{"name":"household","value":325243},{"name":"military","value":2669},{"name":"misc","value":159727}]},{"id":"Cuba","stats":[{"name":"food","value":335152},{"name":"chem","value":15066},{"name":"industrial","value":4777},{"name":"transportation","value":0},{"name":"household","value":2854},{"name":"military","value":200},{"name":"misc","value":1379}]},{"id":"SierraLeone","stats":[{"name":"food","value":17298},{"name":"chem","value":3161},{"name":"industrial","value":24560},{"name":"transportation","value":18326},{"name":"household","value":15206},{"name":"military","value":12},{"name":"misc","value":3858}]},{"id":"VaticanCity","stats":[{"name":"food","value":1210},{"name":"chem","value":107},{"name":"industrial","value":956},{"name":"transportation","value":76},{"name":"household","value":51},{"name":"military","value":0},{"name":"misc","value":64}]}]
 
+var OurData = [{"id":"CONCACAF","stats":[{"name":"population","value":7.8},{"name":"gdp","value":15.8},{"name":"tv_audience","value":9.8}]},{"id":"AFC","stats":[{"name":"population","value":58.9},{"name":"gdp","value":31.6},{"name":"tv_audience","value":42.6}]},{"id":"UEFA","stats":[{"name":"population","value":12.4},{"name":"gdp","value":39},{"name":"tv_audience","value":25.2}]},{"id":"CONMEBOL","stats":[{"name":"population","value":5.6},{"name":"gdp","value":10.3},{"name":"tv_audience","value":13.5}]},{"id":"CAF","stats":[{"name":"population","value":14.9},{"name":"gdp","value":2.6},{"name":"tv_audience","value":8.6}]},{"id":"OFC","stats":[{"name":"population","value":0.2},{"name":"gdp","value":0.1},{"name":"tv_audience","value":0.2}]}];
 // Set ourArray to the data you'd like to use for this experiment, and title your chart to match
-var ourArray = exportsToCanada;
-$('h4.bar-chart-title').text('Exports to Canada, 2004-2013');
+var ourArray = OurData;
+$('h4.bar-chart-title').text('FIFA Statistics: Confederations Percentage Share');
+
+
 
 
 
@@ -54,26 +57,96 @@ $(document).ready(function(){
 
 // Think of universalController() as our Table of Contents
 function universalController(){
+	//Step 0: Load data from local
+	// loadData();
 
   console.log('Universal Controller - ready to run your functions!');
 
 ////// STEP 1: Draw a bar for each year of our data.
-   // initializeBars(ourArray);
+   initializeBars(ourArray);
 
 ////// STEP 2: Allow for user interaction with our visualization
-   // initializeControls();
+   initializeControls();
+
+   add_descr();
 
 ////// STEP 3: Advanced interaction through a click and hold interface
-    // handleTouch();
+    handleTouch();
+
 
 }; //universalController
 
 
+function loadData(){
+	/*d3.csv("./SeriesPost.csv", function(data) {
+    console.log('data acquired from .csv in my local storage:');
+    console.log(data);
+
+    // var data = _.sortBy(data, '48').reverse();
+    bigData = data;
 
 
+// move team to front, set as c3.js spec
+    columnarData = _.map(data, function(obj,iter){
+      var values = _.values(obj);
+      values.unshift(values[values.length-1]);
+      return values.slice(0, values.length-1);
+    })
 
+// once the data is fully downloaded, call the draw methods, passing the data in.
+    refreshCharts(data, columnarData);
+  }); //d3.csv;
+*/
+	myCustomArray = [];
+	d3.csv("./fifa_countries_audience.csv", function(data) {
+    console.log('data acquired from .csv in my local storage:');
+    // console.log(data);
+    bigData = data;
+    confederations = _.uniq(_.pluck(bigData, "confederation"));
 
+    _.map(confederations, function(confederation){
+      //Search for participating countries
+	  var countries = _.filter(bigData, function(obj){
+	    return obj.confederation == confederation;
+	  });
+	var pop =0;
+	var tv =0;
+	var gdp =0;
+	var count=0;
+	_.map(countries, function(country){
+	    if (country.confederation == confederation){
+	      pop = pop + parseFloat(country.population_share);
+	      gdp = gdp + parseFloat(country.gdp_weighted_share);
+	      tv  = tv + parseFloat(country.tv_audience_share);
+	      count++;
+	    } 
+	  })
 
+	console.log(confederation)
+  	// console.log(countries);
+  	console.log('Confederation Population', pop.toFixed(1));
+  	console.log('Confederation Weighted GDP', gdp.toFixed(1));
+  	console.log('Confederation Tv Audience', tv.toFixed(1));
+  	// console.log('No of Participating Countries', count.toFixed(1));
+  	console.log('===================');
+
+  	transformedObject = {
+	  "id": confederation,
+	  "stats": [
+	    {"name": "population", "value": parseFloat(pop.toFixed(1))},
+	    {"name": "gdp", "value": parseFloat(gdp.toFixed(1))},
+	    {"name": "tv_audience", "value": parseFloat(tv.toFixed(1))},
+	    // {"name": "countries", "value": parseFloat(count.toFixed(1))},
+	  ]
+	}
+	myCustomArray.push(transformedObject);
+	// return JSON.stringify(myCustomArray);
+
+	})
+  }); //d3.csv
+
+  
+}
 
 
 
@@ -93,19 +166,20 @@ function initializeBars(comparable) {
 
 // For each of this yearly totals, create a bar in our new bar chart.
   $.each(yearTotals, function(key,value){
-    $('.bar-chart').append('<div class="bar" data-index="'+comparable[key].id+'" data-value="'+value+'"><span><em>' + comparable[key].id + ':</em> <strong>' + commafy(value) + '</strong></span></div>');
+    $('.bar-chart').append('<div class="bar" data-index="'+comparable[key].id+'" data-value="'+value+'"><span><em>' + comparable[key].id + ':</em> <strong>' + ""+ '</strong></span></div>');
+    // $('.bar-chart').append('<div class="bar" data-index="'+comparable[key].id+'" data-value="'+value+'"><span><em>' + comparable[key].id + ':</em> <strong>' + commafy(value) + '</strong></span></div>');
   }); //each yearTotals
 
 //////// Step 1A: Make the length of each bar relative to its $ spent
-   // relativeBarWidths();
+   relativeBarWidths();
 
 //////// Step 1B: Drop another level of metrics in: a breakdown of the yearly spend
-   // createLegend(comparable);
-   // applyCategories(comparable);
+   createLegend(comparable);
+   applyCategories(comparable);
 
 //////// Step 1C: Make the width of each category proportional to 
-   // setCategoryWidths();
-   // setCategoryRatios(comparable);
+   setCategoryWidths();
+   setCategoryRatios(comparable);
 
 }; //initializeBars
 
@@ -132,7 +206,7 @@ STEP 1B: SPEND-BY-CATEGORY LEVEL OF DATA
 =======================================================*/
 
 function createLegend(comparable) {
-  var colorRange = d3.scale.category10().domain(d3.range(11).reverse());
+  var colorRange = d3.scale.category10().domain(d3.range(1).reverse());
   $('.bar-chart').after('<div class="legend"></div>');
   var categories = _.pluck(comparable[0].stats, 'name');
   $.each(categories, function(key,value){
@@ -144,7 +218,7 @@ function createLegend(comparable) {
 }; //createLegend
 
 function applyCategories(comparable) {
-  var colorRange = d3.scale.category10().domain(d3.range(11).reverse());
+  var colorRange = d3.scale.category10().domain(d3.range(1).reverse());
   $('.bar').each(function(){
     var bar = $(this);
     bar.append('<div class="statsblock"></div>');
@@ -195,7 +269,7 @@ function setCategoryRatios(comparable) {
   $.each(categoryTotals, function(i){
     categoryRatios[i] = 1/(categoryTotals[i] / average);
   })
-  categoryRatios = _.object(_.pluck(exportsToCanada[0]['stats'], 'name'), categoryRatios);
+  categoryRatios = _.object(_.pluck(OurData[0]['stats'], 'name'), categoryRatios);
 
 // storing the categoryRatios on the comparable object and ourArray
   comparable = _.map(comparable, function(obj,iter){
@@ -235,8 +309,8 @@ function initializeControls(){
 // Set up a controls box that can be style with css with .controls{}
   $('#world-container').after('<div class="controls"><h5>Controls</h5></div>');
   $('.controls').append('<div><h6>Categories Full Height:</h6><a class="cat_full_height_on">On</a><a class="cat_full_height_off">Off</a></div>')
-  $('.controls').append('<div><h6>Normalize by Annual Volume ("what is the % of annual spend?"):</h6><a class="norm_tv_on">On</a><a class="norm_tv_off">Off</a></div>')
-  $('.controls').append('<div><h6>Normalize by Category Size: ("what year made the biggest impact to a given category?")</h6><a class="norm_cs_on">On</a><a class="norm_cs_off">Off</a></div>')
+  $('.controls').append('<div><h6>Normalize by Total Percentage Share ("what is the % of each category?"):</h6><a class="norm_tv_on">On</a><a class="norm_tv_off">Off</a></div>')
+  // $('.controls').append('<div><h6>Normalize by Category Size: ("what year made the biggest impact to a given category?")</h6><a class="norm_cs_on">On</a><a class="norm_cs_off">Off</a></div>')
 
 // Set the initial state of our on/off switches
   $('.norm_tv_off').addClass('active');
@@ -304,10 +378,19 @@ function handleTouch(){
 // Observe the "mousedown" (click + hold) event on all of our category color-bars
   $(document).on('mousedown', '.stat', function(evt){
     var self = this;
-    var globaloffset = $(this).position().left;
+    // var globaloffset = $(this).position().left;
+    
+    // var globaloffset = 192.21875;
+    var posArray = [];
+    $('.statsblock').each(function(){
+    	var blockoffset = $(this).children('[data-index="'+$(self).attr('data-index')+'"]').position().left;
+    	posArray.push(blockoffset);
+    });
+    var globaloffset = _.min(posArray);
     $('.statsblock').each(function(){
       $(this).css({'height': '100%'});
       var blockoffset = $(this).children('[data-index="'+$(self).attr('data-index')+'"]').position().left;
+      console.log(blockoffset);
       $(this).animate({'left': globaloffset-blockoffset}, 200);
       $(this).parents('.bar').children('span').children('strong').text(commafy($(this).children('[data-index="'+$(self).attr('data-index')+'"]').attr('data-value')));
     }); //each
@@ -318,14 +401,14 @@ function handleTouch(){
     $('.bar').css({'background-color':'transparent'});
 
 ////// OPTIONAL: Sort bars based on order
-    // var barHeight = $('.bar').height() + 11;
-    // var sorted = _.sortBy($('.stat[data-index="'+$(self).attr('data-index')+'"]'), function(obj,iter){
-    //   return $(obj).width();
-    // }); //sorted
-    // _.map(sorted, function(obj,iter){
-    //   var startHeight = barHeight * (iter) - $(obj).parents('.bar').position().top + 20;
-    //   $(obj).parents('.bar').css({'top':startHeight}).attr('which', iter);
-    // })
+    var barHeight = $('.bar').height() + 11;
+    var sorted = _.sortBy($('.stat[data-index="'+$(self).attr('data-index')+'"]'), function(obj,iter){
+      return $(obj).width();
+    }); //sorted
+    _.map(sorted, function(obj,iter){
+      var startHeight = barHeight * (iter) - $(obj).parents('.bar').position().top + 20;
+      $(obj).parents('.bar').css({'top':startHeight}).attr('which', iter);
+    })
 
 // Reset the position of everything wehn you release your mouse
     $(document).on('mouseup', function(){
@@ -333,7 +416,8 @@ function handleTouch(){
       $('.stat').css({'opacity':'1'}).removeClass('active');
       $('.bar').css({'top':'0px', 'background-color': 'rgba(0,0,0,0.1)'});
       $('.bar').each(function(){
-        $(this).children('span').children('strong').text(commafy($(this).attr('data-value')));
+        $(this).children('span').children('strong').text("");
+        // $(this).children('span').children('strong').text(commafy($(this).attr('data-value')));
       })
       $(document).off('mouseup');
     }); //documnet on mouseup
@@ -343,8 +427,20 @@ function handleTouch(){
 }; //handleTouch
 
 
-
-
+//Add Text description to all Abreviation's on the page
+function add_descr(){
+	$('.controls').after('<div class="descr"><h5>Description</h5></div>');
+	$('.descr').append('<div><h6>Tv Audience:</h6><span>Percentage share of global world cup TV Audience</span></div>')
+  	$('.descr').append('<div><h6>GDP:</h6><span>Percentage of the weighted-GDP audience share</span></div>')
+  	$('.descr').append('<div><h6>Population:</h6><span>Percentage share of global population</span></div></br>')
+  	$('.descr').append('<div><h6>UEFA:</h6><span>Union of European Football Associations</span></div>')
+  	$('.descr').append('<div><h6>AFC:</h6><span>Asian Football Confederation</span></div>')
+  	$('.descr').append('<div><h6>CONCACAF:</h6><span>Confederation of North, Central American and Caribbean Association Football</span></div>')
+  	$('.descr').append('<div><h6>CONMEBOL:</h6><span>Confederación Sudamericana de Fútbol</span></div>')
+  	$('.descr').append('<div><h6>CAF:</h6><span>Confederation of African Football</span></div>')
+  	$('.descr').append('<div><h6>OFC:</h6><span>Oceania Football Confederation</span></div>')
+  
+}
 
 
 
@@ -360,6 +456,7 @@ function handleTouch(){
 
 // Make big numbers into pretty numbers
 function commafy(num) {
+	// console.log(num)
   if (num){
     var str = num.toString().split('.');
     if (str[0].length >= 4) {
