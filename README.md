@@ -3,7 +3,7 @@ Multivariate Data: Interactive Bar Charts
 
 ##This is an assigment on data visualization.
 
-###The tasks required to complete this assignment include but not limited to the following:
+###The tasks required to complete this assignment include but are not limited to the following:
 
 - Grab tabular data, csv, tsv html table.
 
